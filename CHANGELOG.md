@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.1](https://github.com/ljharb/gopd/compare/v1.0.0...v1.0.1) - 2022-11-01
+
+### Commits
+
+- [Fix] actually export gOPD instead of dP [`4b624bf`](https://github.com/ljharb/gopd/commit/4b624bfbeff788c5e3ff16d9443a83627847234f)
+
 ## v1.0.0 - 2022-11-01
 
 ### Commits

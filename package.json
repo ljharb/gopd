@@ -1,6 +1,6 @@
 {
 	"name": "gopd",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "`Object.getOwnPropertyDescriptor`, but accounts for IE's broken implementation.",
 	"main": "index.js",
 	"exports": {
