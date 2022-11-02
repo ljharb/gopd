@@ -19,7 +19,7 @@ if (gOPD) {
 	assert.equal(typeof gOPD, 'function', 'descriptors supported');
 	// use gOPD like Object.getOwnPropertyDescriptor here
 } else {
-	assert.equal(gOPD, undefined, 'descriptors not supported');
+	assert.ok(!gOPD, 'descriptors not supported');
 }
 ```
 
