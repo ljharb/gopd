@@ -1,0 +1,30 @@
+{
+	"name": "gopd",
+	"version": "0.0.0",
+	"description": "`Object.getOwnPropertyDescriptor`, but accounts for IE's broken implementation.",
+	"main": "index.js",
+	"exports": {
+		".": "./index.js",
+		"./package.json": "./package.json"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ljharb/gopd.git"
+	},
+	"keywords": [
+		"ecmascript",
+		"javascript",
+		"getownpropertydescriptor",
+		"property",
+		"descriptor"
+	],
+	"author": "Jordan Harband <ljharb@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ljharb/gopd/issues"
+	},
+	"homepage": "https://github.com/ljharb/gopd#readme"
+}
